@@ -23,7 +23,7 @@
 
 <br/>
 
-### ⭐ Flagship Projects
+### 🔭 Featured Projects
 
 <table>
   <tr>
@@ -54,16 +54,9 @@
       </p>
     </td>
   </tr>
-</table>
-
-<br/>
-
-### 🎯 Additional Projects
-
-<table>
   <tr>
     <td width="50%" valign="top">
-      <h4 align="center">📸 Clicks</h4>
+      <h3 align="center">📸 Clicks</h3>
       <p align="center">
         Toroidal-loop photography showcase with canvas animations.
       </p>
@@ -76,7 +69,7 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4 align="center">💼 Portfolio App</h4>
+      <h3 align="center">💼 Portfolio App</h3>
       <p align="center">
         Personal developer portfolio with interactive project demos.
       </p>
