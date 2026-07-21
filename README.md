@@ -12,8 +12,7 @@
 <br/>
 
 <div align="center">
-  <!-- GitHub Stats & Streak Side-by-Side -->
-  <img src="https://github-readme-stats.vercel.app/api?username=harsh-bhadana&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" height="160" alt="GitHub Stats" />
+  <!-- GitHub Streak (Reliable) -->
   <img src="https://streak-stats.demolab.com/?user=harsh-bhadana&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&ring=58A6FF" height="160" alt="GitHub Streak" />
 </div>
 
@@ -28,11 +27,18 @@
 
 ### 🔭 Featured Projects
 
-- [**NextJS Labs**](https://next-labs-one.vercel.app/) — High-performance React 19 / Next.js 16 laboratory.
-- [**Clicks**](https://clicks-nine.vercel.app/) — Premium, toroidal-loop photography showcase.
-- [**WhatNow**](https://whatnow-swart.vercel.app/) — AI-driven content recommendation engine (Gemini 2.0).
-
+**NextJS Labs** — High-performance React 19 / Next.js 16 laboratory.<br/>
+<a href="https://next-labs-one.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" /></a> <a href="https://github.com/harsh-bhadana/next-labs"><img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo" /></a>
 <br/>
+
+**Clicks** — Premium, toroidal-loop photography showcase.<br/>
+<a href="https://clicks-nine.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" /></a> <a href="https://github.com/harsh-bhadana/clicks"><img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo" /></a>
+<br/>
+
+**WhatNow** — AI-driven content recommendation engine (Gemini 2.0).<br/>
+<a href="https://whatnow-swart.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" /></a> <a href="https://github.com/harsh-bhadana/whatnow"><img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo" /></a>
+
+<br/><br/>
 
 ### 🛠️ Core Tech
 
