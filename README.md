@@ -23,17 +23,18 @@
 
 <br/>
 
-### 🔭 Featured Projects
+### ⭐ Flagship Star Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">🚀 NextJS Labs</h3>
       <p align="center">
-        High-performance React 19 & Next.js 16 laboratory showcasing state-of-the-art web architecture, Server Components, and interactive benchmarks.
+        <strong>High-performance React 19 & Next.js 16 Laboratory</strong><br/>
+        An advanced engineering showcase demonstrating state-of-the-art React 19 Server Components, micro-frontend patterns, dynamic rendering optimizations, and interactive architecture benchmarks.
       </p>
       <p align="center">
-        <code>Next.js 16</code> • <code>React 19</code> • <code>TypeScript</code> • <code>Tailwind</code>
+        <code>Next.js 16</code> • <code>React 19</code> • <code>TypeScript</code> • <code>Tailwind CSS</code>
       </p>
       <p align="center">
         <a href="https://next-labs-one.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" /></a>
@@ -41,40 +42,48 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">📸 Clicks</h3>
-      <p align="center">
-        Premium toroidal-loop photography showcase featuring smooth canvas transitions, dynamic image scaling, and fluid UI interactions.
-      </p>
-      <p align="center">
-        <code>React</code> • <code>TypeScript</code> • <code>Framer Motion</code> • <code>Tailwind</code>
-      </p>
-      <p align="center">
-        <a href="https://clicks-nine.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" /></a>
-        <a href="https://github.com/harsh-bhadana/clicks"><img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo" /></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
       <h3 align="center">🤖 WhatNow</h3>
       <p align="center">
-        AI-driven content recommendation engine powered by Google Gemini 2.0 API, featuring real-time stream responses and dynamic topic discovery.
+        <strong>AI-Driven Content Recommendation Engine</strong><br/>
+        An intelligent recommendation platform powered by Google Gemini 2.0 API, featuring real-time streaming responses, dynamic topic discovery, and context-aware query synthesis.
       </p>
       <p align="center">
-        <code>Next.js</code> • <code>Gemini 2.0 API</code> • <code>TypeScript</code> • <code>Tailwind</code>
+        <code>Next.js</code> • <code>Gemini 2.0 API</code> • <code>TypeScript</code> • <code>Tailwind CSS</code>
       </p>
       <p align="center">
         <a href="https://whatnow-swart.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" /></a>
         <a href="https://github.com/harsh-bhadana/whatnow"><img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo" /></a>
       </p>
     </td>
+  </tr>
+</table>
+
+<br/>
+
+### 🎯 Additional Projects
+
+<table>
+  <tr>
     <td width="50%" valign="top">
-      <h3 align="center">💼 Portfolio App</h3>
+      <h4 align="center">📸 Clicks</h4>
       <p align="center">
-        Modern developer portfolio showcasing interactive project demos, dark mode aesthetic system, and performance metrics.
+        Toroidal-loop photography showcase featuring smooth canvas transitions and dynamic scaling.
       </p>
       <p align="center">
-        <code>Next.js</code> • <code>TypeScript</code> • <code>Tailwind CSS</code> • <code>Vercel</code>
+        <code>React</code> • <code>Framer Motion</code> • <code>Tailwind</code>
+      </p>
+      <p align="center">
+        <a href="https://clicks-nine.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" /></a>
+        <a href="https://github.com/harsh-bhadana/clicks"><img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo" /></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4 align="center">💼 Portfolio App</h4>
+      <p align="center">
+        Personal developer portfolio highlighting interactive project demos and dark mode theme system.
+      </p>
+      <p align="center">
+        <code>Next.js</code> • <code>TypeScript</code> • <code>Tailwind</code>
       </p>
       <p align="center">
         <a href="https://harsh-bhadana-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" /></a>
