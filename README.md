@@ -23,18 +23,17 @@
 
 <br/>
 
-### ⭐ Flagship Star Projects
+### ⭐ Flagship Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">🚀 NextJS Labs</h3>
       <p align="center">
-        <strong>High-performance React 19 & Next.js 16 Laboratory</strong><br/>
-        An advanced engineering showcase demonstrating state-of-the-art React 19 Server Components, micro-frontend patterns, dynamic rendering optimizations, and interactive architecture benchmarks.
+        React 19 & Next.js 16 laboratory showcasing modern web architecture, Server Components, and interactive performance benchmarks.
       </p>
       <p align="center">
-        <code>Next.js 16</code> • <code>React 19</code> • <code>TypeScript</code> • <code>Tailwind CSS</code>
+        <code>Next.js 16</code> • <code>React 19</code> • <code>TypeScript</code> • <code>Tailwind</code>
       </p>
       <p align="center">
         <a href="https://next-labs-one.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" /></a>
@@ -44,11 +43,10 @@
     <td width="50%" valign="top">
       <h3 align="center">🤖 WhatNow</h3>
       <p align="center">
-        <strong>AI-Driven Content Recommendation Engine</strong><br/>
-        An intelligent recommendation platform powered by Google Gemini 2.0 API, featuring real-time streaming responses, dynamic topic discovery, and context-aware query synthesis.
+        AI content recommendation engine powered by Google Gemini 2.0 API with real-time stream responses and topic discovery.
       </p>
       <p align="center">
-        <code>Next.js</code> • <code>Gemini 2.0 API</code> • <code>TypeScript</code> • <code>Tailwind CSS</code>
+        <code>Next.js</code> • <code>Gemini 2.0</code> • <code>TypeScript</code> • <code>Tailwind</code>
       </p>
       <p align="center">
         <a href="https://whatnow-swart.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" /></a>
@@ -67,7 +65,7 @@
     <td width="50%" valign="top">
       <h4 align="center">📸 Clicks</h4>
       <p align="center">
-        Toroidal-loop photography showcase featuring smooth canvas transitions and dynamic scaling.
+        Toroidal-loop photography showcase with canvas animations.
       </p>
       <p align="center">
         <code>React</code> • <code>Framer Motion</code> • <code>Tailwind</code>
@@ -80,7 +78,7 @@
     <td width="50%" valign="top">
       <h4 align="center">💼 Portfolio App</h4>
       <p align="center">
-        Personal developer portfolio highlighting interactive project demos and dark mode theme system.
+        Personal developer portfolio with interactive project demos.
       </p>
       <p align="center">
         <code>Next.js</code> • <code>TypeScript</code> • <code>Tailwind</code>
